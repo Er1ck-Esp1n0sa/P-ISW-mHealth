@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448485223874",
+    "project_id": "mhealth-4ba11",
+    "storage_bucket": "mhealth-4ba11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448485223874:android:5668382e1dce5deb1f7a5b",
+        "android_client_info": {
+          "package_name": "com.example.nhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSEmWNjz0xSInzcgoA_ia7xy16GQGVow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
